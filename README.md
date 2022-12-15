@@ -1,4 +1,3 @@
-# oral-microbiota-actinomycosis
 This GitHub repository provides:
 
 - Amplicon-sequencing fastq files used in the study ('samples' directory)
